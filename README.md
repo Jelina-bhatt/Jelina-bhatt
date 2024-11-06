@@ -88,8 +88,8 @@
 </div>
 
 ###
+[![An image of @jelinabhatt's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jelinabhatt)](https://holopin.io/@jelinabhatt)
 
-<div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
 </div>
 <hr bgcolor="blue" >
